@@ -1,7 +1,8 @@
+//Aula 03, explica como funcionam as configurações de compilação no arquivo tsconfig(arquivo raiz) e suas especificações
 class Curso {
     canal = null;
     curso = null;
-    constructor(canal,curso){
+    constructor(canal: any,curso: any){
         this.canal = canal
         this.curso = curso
     }

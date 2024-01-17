@@ -1,5 +1,5 @@
 "use strict";
-//Aula 05, Entenedendo com funciona UNION TYPES em TypeScript
+//Aula 05, entendendo como funciona UNION TYPES em TypeScript
 // basicamente são tipos diferentes em uma mesma variavel
 let vteste;
 vteste = "Leozi";
