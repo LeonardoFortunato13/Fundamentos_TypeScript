@@ -16,7 +16,7 @@ const primeirosItens = [ 1, 2 , 3 ] // spread, Permite expandir uma expressão e
   console.log(outrosItens) // [ 1, 2 , 3, 4, 5, 6 ]
 
 
-
+ // Spread Permite representar um número indefinido de argumentos na forma de um Array
 function ffsoma(...n: number[]): number{ // no tipo de parametro rest , ele pega todos os tipos de valores, não eh necessario escolher um numero fixo
     let s: number =0
 

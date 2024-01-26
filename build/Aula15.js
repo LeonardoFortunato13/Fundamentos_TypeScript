@@ -7,6 +7,7 @@ const val = [100, 50];
 const primeirosItens = [1, 2, 3]; // spread, Permite expandir uma expressão em um local que receba múltiplos argumentos ou elementos.
 const outrosItens = [...primeirosItens, 4, 5, 6];
 console.log(outrosItens); // [ 1, 2 , 3, 4, 5, 6 ]
+// Spread Permite representar um número indefinido de argumentos na forma de um Array
 function ffsoma(...n) {
     let s = 0;
     for (let eN of n) {
