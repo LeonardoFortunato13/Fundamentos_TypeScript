@@ -1,4 +1,3 @@
-"use strict";
 //Aula 05, entendendo como funciona UNION TYPES em TypeScript
 // basicamente são tipos diferentes em uma mesma variavel
 let vteste;
@@ -12,3 +11,4 @@ valores.push(6);
 console.log(cursos);
 console.log(valores);
 console.log(vteste);
+export {};

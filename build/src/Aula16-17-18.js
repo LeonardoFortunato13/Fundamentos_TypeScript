@@ -1,4 +1,3 @@
-"use strict";
 //Aula 16 : Aprendendo sobre P.O.O. em Typescript
 class Computador {
     nome = "";
@@ -37,3 +36,4 @@ comp1.ligar();
 comp1.info();
 comp2.info();
 comp3.info();
+export {};

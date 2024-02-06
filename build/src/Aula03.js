@@ -1,4 +1,3 @@
-"use strict";
 //Aula 03, explica como funcionam as configurações de compilação no arquivo tsconfig(arquivo raiz) e suas especificações
 class Curso {
     canal = null;
@@ -11,3 +10,4 @@ class Curso {
 let c1 = new Curso("CBFCursos", "TypeScript");
 console.log(c1.canal);
 console.log(c1.curso);
+export {};

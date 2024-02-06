@@ -1,4 +1,3 @@
-"use strict";
 // Aula 06: Aprendendo mais sobre Array e Readonly Array em Typescript
 let numeros = [20, 30, 40];
 let num = [20, 30, 40]; //outras forma de declarar um array do tipo numbwe
@@ -10,3 +9,4 @@ numeros.shift(); // metodo que retira o primeiro elemento do array
 console.log(numeros);
 //Read only,funciona somente para a leirura mas nao dispensa tipagem
 let numeros_ro = [100, 200, 300];
+export {};

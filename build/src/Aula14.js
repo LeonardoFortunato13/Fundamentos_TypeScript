@@ -1,4 +1,3 @@
-"use strict";
 // Auka 14: Arrow Function ou Função de Seta em Typescript
 // função anonima é utilizada sempre quando não quiser ou não precisar declarar uma função de callback pra uma outra função
 test(); // pode ser lida antes da função
@@ -22,3 +21,4 @@ const somaArray = (n) => {
 };
 let numeross = [10, 20, 30, 40];
 console.log(somaArray(numeross));
+export {};

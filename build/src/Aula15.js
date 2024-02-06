@@ -1,4 +1,3 @@
-"use strict";
 // Aula 15: Aprendendo sobre parâmetros REST com SPREAD
 //REST- espalhador, serve para espalhar os valores
 const fsoma = (a, b) => a + b; // spread, Permite expandir uma expressão em um local que receba múltiplos argumentos ou elementos.
@@ -20,3 +19,4 @@ function ffsoma(...n) {
 }
 console.log(fsoma(11, 11));
 console.log(ffsoma(11, 11, 33, 359, 444));
+export {};

@@ -1,4 +1,3 @@
-"use strict";
 //Aula 09: Aprendendo sobre ENUM em Typescript
 //basicamente os enumeradores são um conjunto de dados que é possivel utilizar ou classifiar por valores numerais ou textuais. Chave e valor
 var dias;
@@ -34,3 +33,4 @@ var usuario;
 //tambem eh posssivel definir um enum como tipo
 const tp = usuario.super;
 console.log(tp);
+export {};

@@ -1,4 +1,3 @@
-"use strict";
 // Aula 10: diferenças entre NULL, UNDEFINED e UNKNOWN em Typescript
 //NUll - UNDEFINED - UNKNOWN
 //NULL é um valor vazio
@@ -12,3 +11,4 @@ console.log(knome);
 let knome3 = 10; //unknown ele so pode ser atribuido em tipos unkownn ou any
 let vnum;
 console.log(knome3);
+export {};

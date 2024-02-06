@@ -1,4 +1,3 @@
-"use strict";
 // Aula 11 Aprendendo sobre Type Assertion e Typecast em Typescript
 // é basicamente uma afirmação de tipos
 // seu uso ocorre quando é preciso afirmar que um tipo desconhecido é de um tipo conhecido
@@ -14,3 +13,4 @@ console.log(typeof (uvalor)); //typeof indica o tipo da variavel determinada
 console.log(uvalor);
 console.log(typeof (nvalor));
 console.log(nvalor);
+export {};

@@ -1,4 +1,3 @@
-"use strict";
 //Aula 08: Aprendendo sobre o tipo OBJECT em Typescript
 //Object pode receber propriedades ou funções
 let dados = {
@@ -12,3 +11,4 @@ console.log(typeof (dados));
 console.log(dados.ola);
 dados.ola();
 dados.info(dados.nome);
+export {};
